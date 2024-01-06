@@ -10,6 +10,7 @@ NAQI is an Arabic mobile application and IoT hardware that aims to monitor and i
 - Visual Studio Code
 - Firebase
 - The Things Netwotk
+- Google Cloud Functions
 
 ## Getting Started
 Requirements:
